@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5C4E1D01-B30A-4CC4-AAD1-3DA73BADD762}|Default">
+  <MonoDevelop.Ide.ItemProperties.twitterSentiment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="twitterSentiment/twitterClient.cs">
+    <Files>
+      <File FileName="twitterSentiment/Program.cs" Line="164" Column="173" />
+      <File FileName="../NaiveBayes/NaiveBayes/nbModel.cs" Line="18" Column="19" />
+      <File FileName="twitterSentiment/twitterClient.cs" Line="10" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

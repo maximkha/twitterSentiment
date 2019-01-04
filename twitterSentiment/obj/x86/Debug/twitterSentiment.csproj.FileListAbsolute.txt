@@ -1,0 +1,9 @@
+/Users/maxkhanov/Projects/twitterSentiment/twitterSentiment/bin/Debug/twitterSentiment.exe
+/Users/maxkhanov/Projects/twitterSentiment/twitterSentiment/bin/Debug/twitterSentiment.pdb
+/Users/maxkhanov/Projects/twitterSentiment/twitterSentiment/obj/x86/Debug/twitterSentiment.csproj.CoreCompileInputs.cache
+/Users/maxkhanov/Projects/twitterSentiment/twitterSentiment/obj/x86/Debug/twitterSentiment.exe
+/Users/maxkhanov/Projects/twitterSentiment/twitterSentiment/obj/x86/Debug/twitterSentiment.pdb
+/Users/maxkhanov/Projects/twitterSentiment/twitterSentiment/bin/Debug/HtmlAgilityPack.dll
+/Users/maxkhanov/Projects/twitterSentiment/twitterSentiment/bin/Debug/HtmlAgilityPack.pdb
+/Users/maxkhanov/Projects/twitterSentiment/twitterSentiment/bin/Debug/HtmlAgilityPack.xml
+/Users/maxkhanov/Projects/twitterSentiment/twitterSentiment/obj/x86/Debug/twitterSentiment.csprojResolveAssemblyReference.cache
